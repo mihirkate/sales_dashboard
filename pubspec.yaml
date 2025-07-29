@@ -1,0 +1,31 @@
+name: sales_dashboard_app
+description: Professional Sales Dashboard - A comprehensive analytics and reporting solution for sales teams.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  fl_chart: ^0.66.0
+  google_fonts: ^6.1.0
+  intl: ^0.19.0
+  cupertino_icons: ^1.0.8
+  file_picker: ^8.0.0+1
+  path_provider: ^2.1.1
+  csv: ^6.0.0
+  shared_preferences: ^2.2.2
+  provider: ^6.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
