@@ -3,7 +3,7 @@
 # Sales Dashboard App
 
 A comprehensive Flutter dashboard application for sales data visualization and management. This app provides responsive design across mobile, tablet, and desktop platforms with interactive charts, advanced filtering, and data export capabilities.
-
+### Video https://github.com/user-attachments/assets/9ae102fe-ab3d-4c17-aebc-2a8a6569c11d
 ## 🚀 Features
 
 ### 📱 Responsive Design
